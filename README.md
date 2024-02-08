@@ -38,7 +38,7 @@ Cette version de l'application permet également d'augmenter et de diminuer une 
 
 ### Python
 
-**Windows** (binaires): [Télécharger Python](https://www.python.org/downloads/)
+**Windows** (installateurs): [Télécharger Python](https://www.python.org/downloads/windows)
 
 **Windows** (Chocolatey) : 
 ```ps1
